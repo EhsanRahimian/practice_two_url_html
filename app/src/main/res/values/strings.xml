@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PracticeTwo</string>
+    <string name="button_go">Go</string>
+    <string name="enter_url_here">Enter URL here</string>
+    <string name="open_html">Open HTML</string>
+</resources>
